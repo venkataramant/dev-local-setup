@@ -1,0 +1,2 @@
+1. add "127.0.0.1 kafka_host" to local host file 
+2. bootstrap.servers:PLAINTEXT://kafka_host:9092
